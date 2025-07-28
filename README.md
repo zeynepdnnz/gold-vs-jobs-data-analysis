@@ -18,13 +18,13 @@ Using Python, machine learning models, and visualizations, it aims to uncover po
 
 ### 📌 Gold Price vs Unemployment Rate (Scatter Plot)
 
-![Gold vs Unemployment](images/)
+![Gold vs Unemployment](images/1)
 
 ---
 
 ### 📌 Actual vs Predicted Unemployment Rate
 
-![Predictions](images/predicted_vs_actual.png)
+![Predictions](images/3)
 
 ---
 
