@@ -40,7 +40,7 @@ Using Python, machine learning models, and visualizations, it aims to uncover po
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gold-vs-jobs-data-analysis.git
+git clone https://github.com/zeynepdnnz/gold-vs-jobs-data-analysis.git
 
 # Install dependencies
 pip install -r requirements.txt
